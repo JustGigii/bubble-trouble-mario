@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="997a35d4-71cb-494b-ab83-cac68b6eb77a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hdNeovCA2aukFoX2PVfZb9MsDI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/src" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\omrig\Desktop\mario\Bubble Triuble me\src\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\omrig\Desktop\mario\Bubble Triuble me\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GamePanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GamePanel" />
+      <module name="Desktop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GamePanel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="997a35d4-71cb-494b-ab83-cac68b6eb77a" name="Default Changelist" comment="" />
+      <created>1600337109791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600337109791</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="681" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1602764893497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602764893497" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1602766292525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602766292525" />
+    <state width="1865" height="251" key="GridCell.Tab.0.bottom" timestamp="1605787841169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605787841169" />
+    <state width="1878" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602763531889" />
+    <state width="1865" height="251" key="GridCell.Tab.0.center" timestamp="1605787841169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="251" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605787841169" />
+    <state width="1878" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602763531889" />
+    <state width="1865" height="251" key="GridCell.Tab.0.left" timestamp="1605787841169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="251" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605787841169" />
+    <state width="1878" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602763531889" />
+    <state width="1865" height="251" key="GridCell.Tab.0.right" timestamp="1605787841169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="251" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605787841169" />
+    <state width="1878" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602763531889" />
+    <state width="1877" height="359" key="GridCell.Tab.1.bottom" timestamp="1602766186845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="359" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602766186845" />
+    <state width="1877" height="359" key="GridCell.Tab.1.center" timestamp="1602766186844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="359" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602766186844" />
+    <state width="1877" height="359" key="GridCell.Tab.1.left" timestamp="1602766186844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="359" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602766186844" />
+    <state width="1877" height="359" key="GridCell.Tab.1.right" timestamp="1602766186845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="359" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602766186845" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1602764884028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602764884028" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1602766139765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602766139765" />
+    <state x="505" y="255" width="909" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602761897620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="255" width="909" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602761897620" />
+    <state x="2874" y="0" width="972" height="1046" key="dock-window-1" timestamp="1602761734111">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2874" y="0" width="972" height="1046" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602761734111" />
+    <state x="1914" y="0" width="972" height="1046" key="dock-window-2" timestamp="1602760586941">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1914" y="0" width="972" height="1046" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602760586941" />
+    <state x="551" y="140" key="new project wizard" timestamp="1602766293896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="140" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602766293896" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
